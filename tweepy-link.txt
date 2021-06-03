@@ -1,1 +1,10 @@
+
+
 https://github.com/tweepy/tweepy
+
+https://realpython.com/twitter-bot-python-tweepy/
+
+https://docs.tweepy.org/en/latest/api.html
+
+https://docs.google.com/document/d/1NSIsZG9ZmupWilxkswGq6Kkl0b2xODatJyaxQpHXNCg/edit#heading=h.en8g21ymu112
+
